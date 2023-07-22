@@ -1,0 +1,60 @@
+
+#book
+{
+    display:flex;
+    width:400px;
+    height:300px;
+    top:181px;
+    background: rgba(244, 113, 168, 0.38);
+    
+    /* left:20px; */
+}
+#book:hover
+{
+    border:solid 2px;
+    border-color: rgb(97, 97, 224);
+}
+#side-item
+{
+     
+   /* width: 200px;
+    height: 230px;
+    top: 181px; */
+    /* left: 706px; */
+   
+    /* justify-content: center; */
+   
+   
+border-radius: 5px;
+
+/* overflow:auto; */
+
+
+}
+#text
+{
+    height: 33%;
+ 
+  overflow:auto;
+}
+#wrap
+{
+    margin-left: 12%;
+}
+#text
+{
+    overflow-y: auto;
+}
+h2 p{
+    justify-content: center;
+}
+#img
+{
+    width: 150px;
+    height: 320.2661416650975px;
+    top: 10.31719970703125px;
+    transform: rotate(-3.5deg);
+    
+    
+
+}
